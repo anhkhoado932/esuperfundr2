@@ -1,0 +1,13 @@
+{
+  "name": "esuperfund",
+  "version": "1.0.0",
+  "description": "esuperfund take-home assignment",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
